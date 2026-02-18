@@ -22,7 +22,7 @@ Real-time drowsiness and emotion detection system using a phone camera, a FastAP
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Blhasn-Sehli/Drowsy.git
+git clone https://github.com/tlili-achref/Drowsy.git
 cd Drowsy
 ```
 
